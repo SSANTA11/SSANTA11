@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HumaRhoid)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HumanRhoid)
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br>
